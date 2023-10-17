@@ -1,0 +1,6 @@
+
+[
+  {"id": 1, "name": "Alice", "age": 30, "privileges": "admin", "badges": ["red", "black"]},
+  {"id": 2, "name": "Bob", "age": 35, "privileges": "user", "badges": ["blue"]}
+
+]
